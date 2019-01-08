@@ -6,8 +6,7 @@
 # Yuri Chornoivan <yurchor@ukr.net>, 2018.
 # Андрій Бандура <andriykopanytsia@gmail.com>, 2018.
 # Гидеон Теон <t.kudely94@gmail.com>, 2017.
-# Максим Якимчук <xpinovo@gmail.com>, 2018, 2019.
-# Марс Ямбар <mjambarmeta@gmail.com>, 2017-2018.
+# Максим Якимчук <xpinovo@gmail.com>, 2017-2019.
 # Олександр Пилипчук <pilipchukap@rambler.ru>, 2018.
 # Kirill Omelchenko <kirill.omelchenko@gmail.com>, 2018.
 # Александр <ol-vin@mail.ru>, 2018.
